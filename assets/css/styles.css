@@ -511,27 +511,36 @@ color: var(--text-color-light);
 }
 
 .skills__js{
+  width: 60%;
+}
+.skills__React{
   width: 50%;
+}
+.skills__TailwindCss{
+  width: 70%;
 }
 
 .skills__bootstrap{
   width: 60%;
 }
 
-.skills__php{
+.skills__NodeJs{
   width: 30%;
 }
 
-.skills__sql{
+.skills__NextJS{
   width: 55%;
 }
 
-.skills__firebase{
+.skills__ExpressJS{
   width: 20%;
 }
 
 .skills__python{
   width: 50%;
+}
+.skills__MongoDB{
+  width: 40%;
 }
 
 .skills__Photoshop{
@@ -539,11 +548,11 @@ color: var(--text-color-light);
 }
 
 .skills__matlab{
-  width: 55%;
+  width: 10%;
 }
 
 .skills__figma{
-  width: 20%;
+  width: 10%;
 }
 
 .skills__close .skills__list{
